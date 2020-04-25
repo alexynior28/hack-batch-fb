@@ -21,6 +21,9 @@ explorer C:\ubicacion\ruta\Hack_FB\Inicio_Sesion.bat
 
 ![Error y redirección](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im03.PNG)
 
+![Captura de Datos](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im04.PNG)
+
+
 
 
 
