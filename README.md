@@ -9,7 +9,7 @@ Simular Phishing de Facebook con Windows Batch
 **Puedes modificar a tu gusto:**
 
 - Cambia la ubicación por la tuya: <code> pushd "C:\Users\Alexynior\Documents\Hack_FB" </code>
-- Cambia el navegador y URL que desees: start chrome https://www.facebook.com
+- Cambia el navegador y URL que desees: <code> start chrome https://www.facebook.com </code>
 
 **Crea un acceso directo a la barra de tareas:**
 
