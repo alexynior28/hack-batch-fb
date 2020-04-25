@@ -23,7 +23,9 @@ Simular Phishing de Facebook con Windows Batch
 
 ![Captura de Datos](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im04.PNG)
 
-Explicación completa: EXPLICACIÓN COMPLETA: https://esgeeks.com/?p=9269
+:warning: Aleyxnior28 no ofrece ninguna garantía con este software y no será responsable de ningún daño directo o indirecto causado por el uso de esta herramienta. Aleyxnior28 realiza trabajos para fines educativos. Úsalo bajo su propio riesgo.
+
+EXPLICACIÓN COMPLETA: https://esgeeks.com/?p=9269
 
 
 
