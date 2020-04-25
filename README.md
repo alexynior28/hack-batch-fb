@@ -15,5 +15,12 @@ Crea un acceso directo a la barra de tareas:
 
 explorer C:\ubicacion\ruta\Hack_FB\Inicio_Sesion.bat
 
+![Interfaz Principal](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im01.PNG)
 
-https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im01.PNG
+![Login](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im02.PNG)
+
+![Error y redirección](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im03.PNG)
+
+
+
+
