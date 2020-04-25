@@ -13,7 +13,7 @@ Simular Phishing de Facebook con Windows Batch
 
 **Crea un acceso directo a la barra de tareas:**
 
-explorer C:\ubicacion\ruta\Hack_FB\Inicio_Sesion.bat
+<code>explorer C:\ubicacion\ruta\Hack_FB\Inicio_Sesion.bat</code>
 
 ![Interfaz Principal](https://github.com/alexynior28/hack-batch-fb/blob/master/Imagenes/im01.PNG)
 
